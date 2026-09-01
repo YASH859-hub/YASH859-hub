@@ -1,6 +1,6 @@
 # Hi there, I'm YASH! 👋
 
-Welcome to my GitHub profile. I'm an **AI & Machine Learning Student** and **Founder @ ThreeCircuits**, passionate about building cutting-edge AI automation solutions, LLM applications, and scalable SaaS products that solve real-world problems.
+Welcome to my GitHub profile. I'm an **AI & Machine Learning Student** and **Founder @ ThreeCircuits**, passionate about building cutting-edge AI automation solutions, LLM applications, and scalable AI systems.
 
 ---
 
@@ -39,30 +39,32 @@ Welcome to my GitHub profile. I'm an **AI & Machine Learning Student** and **Fou
 
 ## 🎓 Featured Projects
 
-### ThreeCircuits
-**AI Automation & AI Solutions Agency**
-- Helping businesses automate sales, customer support, and operations
-- Technologies: AI Agents, Voice AI, LLMs, Custom Software Solutions
-- Building real-world AI products that drive business impact
-- **Status**: Growing & Scaling
-- 🔗 [Learn More](https://threecircuits.com) *(Coming Soon)*
+### Nexora
+**Next-Generation AI Platform for Enterprise Automation**
+- Intelligent workflow orchestration and AI-powered automation
+- Multi-agent system coordination and management
+- Enterprise-grade security and scalability
+- **Tech Stack**: Next.js, FastAPI, LLMs, LangGraph, PostgreSQL
+- **Status**: Development
+- 🔗 [GitHub Repository](https://github.com/YASH859-hub/nexora)
 
-### AIVORA - AI Learning Platform
-**AI-Powered Personalized Learning Platform**
-- Intelligent learning path discovery and personalized roadmaps
-- AI-powered course recommendations and curated resources
-- Helping students find the right learning trajectory
-- **Tech Stack**: Next.js, React, FastAPI, LLMs, PostgreSQL
-- **Status**: Coming Soon
-- 🔗 [GitHub Repository](https://github.com/YASH859-hub/aivora) *(Coming Soon)*
+### AI Code Vulnerability Detector
+**Smart Security Analysis for Code**
+- Automated vulnerability detection and code security analysis
+- AI-powered code review and threat identification
+- Integration with CI/CD pipelines for continuous security
+- **Tech Stack**: Python, FastAPI, Machine Learning, Static Analysis
+- **Status**: Development
+- 🔗 [GitHub Repository](https://github.com/YASH859-hub/ai-code-vulnerability-detector)
 
-### MiniERP.ai
-**Smart ERP for Educational Institutions**
-- AI-powered attendance management & intelligent dashboards
-- Workflow automation for educational operations
-- Scalable architecture for multi-institution deployments
-- **Tech Stack**: Next.js, FastAPI, MongoDB, Docker, LangGraph
-- 🔗 [GitHub Repository](https://github.com/YASH859-hub/minierp-ai)
+### RepoBrain OS
+**AI-Powered Repository Intelligence System**
+- Repository analysis and intelligent code understanding
+- Context-aware AI assistance for developers
+- Code navigation and semantic search capabilities
+- **Tech Stack**: Next.js, FastAPI, LLMs, Vector Databases, Docker
+- **Status**: Development
+- 🔗 [GitHub Repository](https://github.com/YASH859-hub/repobrain-os)
 
 ---
 
@@ -144,4 +146,4 @@ Welcome to my GitHub profile. I'm an **AI & Machine Learning Student** and **Fou
 
 **Let's build the future of AI together! Feel free to reach out for collaborations, discussions, or just to say hi.** 🚀
 
-*Last updated: July 2026*
+*Last updated: September 2026*
