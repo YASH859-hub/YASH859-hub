@@ -113,27 +113,6 @@ AI-assisted platform for intelligent personal operations and workflows.
 
 ---
 
-## 🧪 Engineering Philosophy
-
-**The Core Principle:**
-
-```
-Don't just make it work.
-Understand why it works.
-```
-
-Every project is built around understanding:
-
-- **Why** does this system work?
-- **When** does it fail?
-- **How** do we measure it?
-- **Can** we reproduce it reliably?
-- **How** can we improve it?
-
-A demo is interesting. A **measurable, reproducible, reliable system** is what matters.
-
----
-
 ## 🔬 Research Interests
 
 - Machine Learning & Deep Learning
@@ -146,68 +125,6 @@ A demo is interesting. A **measurable, reproducible, reliable system** is what m
 - Efficient & Reliable AI
 
 **The Goal:** Move from *using* AI systems to *understanding, engineering, and researching* them.
-
----
-
-## 🧭 Areas of Focus
-
-I'm particularly drawn to problems that sit at intersections:
-
-```
-    Machine Learning
-           +
-    Software Engineering
-           +
-        Systems
-           +
-       Research
-           ↓
-    Intelligent Systems
-```
-
-**Key Questions I Explore:**
-- How can AI understand complex software repositories?
-- How can agents become more reliable and interpretable?
-- How should intelligent systems evaluate their own outputs?
-- How can context and memory be efficiently represented?
-- How can AI systems operate safely at scale?
-
----
-
-## 📚 Learning Path
-
-```
-Machine Learning → Deep Learning → RNNs & Sequences
-                                          ↓
-                                   Transformers
-                                          ↓
-                                      LLMs
-                                          ↓
-                                   RAG & Engineering
-                                          ↓
-                                     AI Agents
-                                          ↓
-                                    AI Systems
-                                          ↓
-                                     Research
-```
-
----
-
-## 🧠 Methodology
-
-My approach to learning and building follows a structured cycle:
-
-```
-QUESTION → HYPOTHESIS → PROTOTYPE → EXPERIMENT
-              ↑                           ↓
-           ITERATE ← ANALYSIS ← FAILURE
-
-UNDERSTANDING → SYSTEM → BUILD → REPEAT
-```
-
-Not every experiment becomes a product. Some become prototypes, research notes, benchmarks, or new questions. That's part of the process.
-
 ---
 
 ## 🌐 Open Source
