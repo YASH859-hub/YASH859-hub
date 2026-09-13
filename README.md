@@ -70,9 +70,9 @@ AI-assisted platform for intelligent personal operations and workflows.
 
 ---
 
-## 🧪 How I Approach Engineering
+## 🧪 Engineering Philosophy
 
-**The Core Philosophy:**
+**The Core Principle:**
 
 ```
 Don't just make it work.
@@ -131,7 +131,7 @@ I'm particularly drawn to problems that sit at intersections:
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learning Path
 
 ```
 Machine Learning → Deep Learning → RNNs & Sequences
@@ -197,11 +197,9 @@ Data analysis and analytical problem-solving.
 
 ---
 
-## 🌱 Beyond Technology
+## 🌱 Professional Development
 
-Technical ability is only one part of becoming a strong engineer.
-
-I'm equally focused on developing:
+Beyond technical skills, I'm equally focused on:
 
 - Clear thinking & decision-making
 - Communication & leadership
@@ -213,7 +211,9 @@ I'm equally focused on developing:
 
 ---
 
-## 🧠 The Learning Cycle
+## 🧠 Methodology
+
+My approach to learning and building follows a structured cycle:
 
 ```
 QUESTION → HYPOTHESIS → PROTOTYPE → EXPERIMENT
@@ -250,19 +250,19 @@ I value contributions where I can develop deep understanding rather than make su
 
 ---
 
-## 💡 Random Facts
+## 💡 Key Traits
 
-- 🧠 I enjoy understanding systems from first principles
-- 🧪 I prefer experimenting with ideas before deciding their value
-- 🔍 I tend to ask "why?" more than "how?"
-- 💻 I learn fastest when theory is followed by implementation
-- 🔬 Research is becoming an increasingly important part of my work
-- ⚙️ I prefer building systems over building demos
-- 📈 I believe consistency and depth compound
+- 🧠 Understanding systems from first principles
+- 🧪 Experimenting with ideas before deciding their value
+- 🔍 Asking "why?" more than "how?"
+- 💻 Learning fastest when theory is followed by implementation
+- 🔬 Increasingly focused on research and deep work
+- ⚙️ Preferring systems over demos
+- 📈 Believing consistency and depth compound over time
 
 ---
 
-## 🎯 Long-Term Direction
+## 🎯 Long-Term Vision
 
 ```
     MATHEMATICS
