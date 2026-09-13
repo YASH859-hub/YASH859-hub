@@ -1,149 +1,319 @@
-# Hi there, I'm YASH! 👋
+# Yash Jadhav 👋
 
-Welcome to my GitHub profile. I'm an **AI & Machine Learning Student** and **Founder @ ThreeCircuits**, passionate about building cutting-edge AI automation solutions, LLM applications, and scalable AI systems.
+### 🧠 AI/ML Engineer | 🔬 AI Systems & Research | 🏗️ Builder
 
----
+> Building intelligent systems at the intersection of machine learning, generative AI, and software engineering.
 
-## 🚀 About Me
+I’m a **B.Sc. Artificial Intelligence & Machine Learning student** focused on becoming a deeply technical AI engineer and researcher.
 
-- 🎓 **B.Sc. Artificial Intelligence & Machine Learning** Student
-- 🤖 **AI Engineer** specializing in Generative AI, LLMs, and AI Agents
-- 💼 **Founder @ ThreeCircuits** — An AI Automation & Solutions Agency
-- 🏗️ Building production-scale AI systems and SaaS products
-- 💡 Passionate about AI Workflow Automation, System Design, and Entrepreneurship
-- 🤝 Open-source enthusiast and continuous learner
-- ⚡ Focused on solving complex problems with elegant AI-driven solutions
+I learn by building — from machine learning models and code intelligence systems to LLM applications and agentic workflows.
+
+My current direction is simple:
+
+**Understand the fundamentals → build real systems → study what fails → research deeper → build again.**
 
 ---
 
-## 💻 Technical Stack
+## 🚧 Current Projects
 
-**AI & Machine Learning:**
-- Python, Machine Learning, Generative AI
-- Large Language Models (LLMs)
-- AI Agents & Agentic Workflows
-- LangGraph, Model Context Protocol (MCP)
-- Prompt Engineering & Fine-tuning
-
-**Backend & Infrastructure:**
-- FastAPI, Node.js, REST APIs
-- PostgreSQL, MongoDB
-- Docker, Cloud Computing
-- Git & GitHub
-
-**Frontend & Full-Stack:**
-- Next.js, React, JavaScript/TypeScript
-- Responsive UI/UX Design
+- 🧠 **[RepoBrain OS](https://github.com/YASH859-hub/repobrain-os)** — AI-powered repository intelligence and code understanding system
+- 🔐 **[AI Code Vulnerability Detector](https://github.com/YASH859-hub/ai-code-vulnerability-detector)** — Machine learning approach to automated code vulnerability analysis
+- ⚡ **[Nexora](https://github.com/YASH859-hub/nexora)** — AI-assisted personal operations and workflow platform
+- 🔬 **AI Research Experiments** — Exploring deep learning, transformers, LLMs, agents, and intelligent systems
 
 ---
 
-## 🎓 Featured Projects
+## ⭐ Selected Work
 
-### Nexora
-**Next-Generation AI Platform for Enterprise Automation**
-- Intelligent workflow orchestration and AI-powered automation
-- Multi-agent system coordination and management
-- Enterprise-grade security and scalability
-- **Tech Stack**: Next.js, FastAPI, LLMs, LangGraph, PostgreSQL
-- **Status**: Development
-- 🔗 [GitHub Repository](https://github.com/YASH859-hub/nexora)
+### 🧠 RepoBrain OS
 
-### AI Code Vulnerability Detector
-**Smart Security Analysis for Code**
-- Automated vulnerability detection and code security analysis
-- AI-powered code review and threat identification
-- Integration with CI/CD pipelines for continuous security
-- **Tech Stack**: Python, FastAPI, Machine Learning, Static Analysis
-- **Status**: Development
-- 🔗 [GitHub Repository](https://github.com/YASH859-hub/ai-code-vulnerability-detector)
+An AI-powered repository intelligence system exploring how machines can understand software repositories beyond simple text retrieval.
 
-### RepoBrain OS
-**AI-Powered Repository Intelligence System**
-- Repository analysis and intelligent code understanding
-- Context-aware AI assistance for developers
-- Code navigation and semantic search capabilities
-- **Tech Stack**: Next.js, FastAPI, LLMs, Vector Databases, Docker
-- **Status**: Development
-- 🔗 [GitHub Repository](https://github.com/YASH859-hub/repobrain-os)
+**Focus:**  
+Repository analysis · Code intelligence · Symbol extraction · Dependency graphs · Semantic search · Knowledge representation · LLM-assisted development
+
+**Stack:**  
+`Python` `Tree-sitter` `NetworkX` `LLMs` `FastAPI` `Docker`
+
+→ **[View Repository](https://github.com/YASH859-hub/repobrain-os)**
 
 ---
 
-## 📊 GitHub Stats
+### 🔐 AI Code Vulnerability Detector
 
-![YASH859-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASH859-hub&theme=radical&show_icons=true&hide_border=true)
+An AI-assisted security system for detecting potential vulnerabilities in source code.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YASH859-hub&theme=radical&hide_border=true&layout=compact)
+**Focus:**  
+Machine learning · Code representation · Feature engineering · CodeBERT · XGBoost · SHAP · Model evaluation
 
----
+**Stack:**  
+`Python` `Scikit-learn` `XGBoost` `CodeBERT` `SHAP`
 
-## 🎯 Current Goals
-
-- 🚀 Build ThreeCircuits into a leading AI Automation & SaaS company
-- 🧠 Master AI Agents, LangGraph, MCP, and advanced LLM engineering
-- 🏗️ Become an AI Architect capable of building production-scale AI systems
-- 📦 Launch multiple AI SaaS products with global users
-- 💪 Strengthen expertise in DSA, System Design, Cloud Computing, and DevOps
-- 🌍 Contribute to impactful open-source AI projects
-- 🤝 Collaborate with world-class AI teams while building my own products
+→ **[View Repository](https://github.com/YASH859-hub/ai-code-vulnerability-detector)**
 
 ---
 
-## 🌐 Let's Connect
+### ⚡ Nexora
 
-- 💼 **LinkedIn**: [Yash Vijay Jadhav](https://linkedin.com/in/yash-vijay-jadhav)
-- 🐙 **GitHub**: [@YASH859-hub](https://github.com/YASH859-hub)
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🌍 **Portfolio**: Coming Soon
-- 🐦 **Twitter/X**: Coming Soon
+An AI-assisted platform exploring intelligent workflows for personal operations and task management.
 
----
+**Focus:**  
+LLM applications · AI workflows · Automation · Backend systems · Tool integrations · Intelligent orchestration
 
-## 🔧 Tools & Technologies I Work With
+**Stack:**  
+`Next.js` `TypeScript` `Supabase` `Gemini` `Express` `Twilio`
 
-```
-┌─────────────────────────────────────────┐
-│  AI & ML: Python, TensorFlow, PyTorch   │
-│  LLMs: GPT, Claude, Open Source Models  │
-│  AI Frameworks: LangChain, LangGraph    │
-│  Backend: FastAPI, Node.js, Express    │
-│  Frontend: Next.js, React, TypeScript   │
-│  Databases: PostgreSQL, MongoDB         │
-│  DevOps: Docker, Kubernetes (Learning) │
-└─────────────────────────────────────────┘
-```
+→ **[View Repository](https://github.com/YASH859-hub/nexora)**
 
 ---
 
-## 📝 What I'm Currently Working On
+## 🛠️ Tech Stack
 
-- 🤖 Building advanced AI agents with LangGraph and MCP
-- 🎯 Scaling ThreeCircuits and launching new AI SaaS products
-- 📚 Deepening expertise in System Design and Cloud Architecture
-- 🔬 Exploring cutting-edge LLM applications and fine-tuning techniques
-- 💡 Contributing to open-source AI/ML projects
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white)
+
+### Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B5B95?style=flat-square)
+
+`LLMs` `RAG` `AI Agents` `Agentic Workflows` `Prompt Engineering` `Model Evaluation` `Fine-tuning`
+
+### Backend & Infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Full Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
-## 💬 Open To
+## 🧭 What I'm Doing
 
-- 🤝 Collaborations on AI/ML projects
-- 💼 Discussions about AI Automation, LLMs, and SaaS
-- 🎓 Mentoring and knowledge-sharing
-- 🚀 Strategic partnerships and investment opportunities for ThreeCircuits
-- 📧 Interesting conversations about AI, startups, and tech
-
----
-
-## 📈 Fun Facts
-
-- 🎓 Pursuing B.Sc. in AI & Machine Learning while building real products
-- 🚀 Founded ThreeCircuits to democratize AI automation for businesses
-- 🧠 Obsessed with AI Agents and their potential to transform industries
-- 💻 Believe in learning by building, not just reading
-- 🌱 Constantly exploring new AI frameworks, models, and paradigms
+- 🧠 **Deepening ML & Deep Learning** — moving from implementation toward understanding
+- 🔬 **Research** — reading, reproducing, and experimenting with AI research
+- 🤖 **Agentic AI** — exploring tool use, workflows, memory, planning, and evaluation
+- 🏗️ **AI Systems** — learning how reliable AI applications are designed and deployed
+- 🔐 **AI Security** — exploring code intelligence and machine learning for security
+- 📚 **DSA & Mathematics** — strengthening the foundations behind intelligent systems
+- 🌐 **Open Source** — looking for meaningful contributions to AI and developer tooling
+- 🧪 **Building** — turning ideas into working systems rather than stopping at prototypes
 
 ---
 
-**Let's build the future of AI together! Feel free to reach out for collaborations, discussions, or just to say hi.** 🚀
+## 🔬 Research Interests
 
-*Last updated: September 2026*
+I'm particularly interested in:
+
+- Machine Learning
+- Deep Learning
+- Representation Learning
+- Transformers
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI Agents
+- Multi-Agent Systems
+- AI Evaluation
+- Code Intelligence
+- AI Security
+- AI Systems & Infrastructure
+- Efficient and Reliable AI
+
+The long-term goal is to move from **using AI systems** to understanding, engineering, and eventually researching them.
+
+---
+
+## 🎓 Education
+
+**B.Sc. Artificial Intelligence & Machine Learning**  
+Elphinstone College — Dr. Homi Bhabha State University, Mumbai
+
+`2024 — 2027`
+
+### Academic Performance
+
+| Semester | SGPA | Grade |
+|:--------:|:----:|:-----:|
+| Sem 1 | 9.55 | O |
+| Sem 2 | 10.00 | O |
+| Sem 3 | 9.73 | O |
+| Sem 4 | 10.00 | O |
+
+---
+
+## 💼 Experience
+
+### Machine Learning Intern — FlyRank AI
+`July 2026 — Present`
+
+Working on practical machine learning and AI engineering problems.
+
+### Artificial Intelligence Intern — Codec Technologies
+`May 2026 — June 2026`
+
+Worked on applied AI/ML concepts and implementation.
+
+### Data Analytics Virtual Experience — Datacom
+`February 2026 — April 2026`
+
+Developed practical experience in data analysis and analytical problem solving.
+
+---
+
+## 🏆 Leadership & Activities
+
+### Google Student Ambassador — 2026
+
+- Technical workshops
+- Developer community initiatives
+- AI/technology knowledge sharing
+- Hackathon initiatives
+- Student developer engagement
+
+### Hackathons
+
+- **TECHTAVA HACKATHON**
+- **HACKCRYPT — COSMIC CYPHER**
+- **SUMMERHACKS 2026**
+
+---
+
+## 📚 Currently Learning
+
+```text
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+RNNs & Sequence Models
+       ↓
+Transformers
+       ↓
+Large Language Models
+       ↓
+RAG & LLM Engineering
+       ↓
+AI Agents
+       ↓
+AI Systems
+       ↓
+Research
+🧠 My Engineering Philosophy
+
+Learn deeply. Build deliberately. Measure honestly.
+
+I don't want to collect frameworks.
+
+I want to understand systems.
+
+When I build something, I try to understand:
+
+Why does it work?
+       ↓
+When does it fail?
+       ↓
+How do we measure it?
+       ↓
+How can we improve it?
+       ↓
+Can the result be reproduced?
+       ↓
+Can the system survive real-world conditions?
+🔁 How I Learn
+        LEARN
+          ↓
+      IMPLEMENT
+          ↓
+      EXPERIMENT
+          ↓
+        BREAK
+          ↓
+        DEBUG
+          ↓
+       MEASURE
+          ↓
+      UNDERSTAND
+          ↓
+        BUILD
+          ↓
+        REPEAT
+🌱 Beyond Technology
+
+I believe technical ability is only one part of becoming a strong engineer.
+
+I'm also working on:
+
+Discipline
+Communication
+Leadership
+Decision making
+Focus
+Consistency
+Clear thinking
+Physical fitness
+
+The objective isn't to look impressive.
+
+The objective is to become capable.
+
+💡 Random Facts
+🧠 I enjoy understanding how systems work under the hood
+💻 I learn best by building and experimenting
+🔬 Research and engineering are becoming increasingly important parts of my work
+🧩 I enjoy difficult technical problems more than repetitive tasks
+📚 Currently spending more time going deeper rather than simply learning more tools
+⚡ I believe consistency compounds
+📊 GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YASH859-hub&show_icons=true&hide_border=true&rank_icon=github" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH859-hub&layout=compact&hide_border=true" /> </p>
+📫 Connect
+💼 LinkedIn: Yash Jadhav
+🐙 GitHub: @YASH859-hub
+🌐 Portfolio: yashjadhav-drab.vercel.app
+📧 Email: yashj192006@gmail.com
+🎯 Long-Term Direction
+                    AI / ML ENGINEER
+                           │
+             ┌─────────────┼─────────────┐
+             ↓             ↓             ↓
+        Mathematics    Engineering    Research
+             │             │             │
+             ↓             ↓             ↓
+            ML         AI Systems      Papers
+             │             │             │
+             ↓             ↓             ↓
+      Deep Learning    Infrastructure  Experiments
+             │             │             │
+             └─────────────┼─────────────┘
+                           ↓
+                    Advanced AI
+                           ↓
+                  Intelligent Systems
+                           ↓
+                       Research
+
+I want to build the technical depth required to work across the AI stack — from mathematics and models to systems, infrastructure, research, and real-world applications.
+
+<p align="center">
+Build. Measure. Understand. Repeat.
