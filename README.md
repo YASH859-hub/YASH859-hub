@@ -56,17 +56,60 @@ AI-assisted platform for intelligent personal operations and workflows.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript · SQL
+### Languages
 
-**AI/ML:** PyTorch · TensorFlow · Scikit-learn · XGBoost · Pandas · NumPy
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql" />
+</p>
 
-**Generative AI:** LLMs · RAG · LangChain · LangGraph · MCP · Fine-tuning · Prompt Engineering
+### AI / Machine Learning
 
-**Backend & Infrastructure:** FastAPI · Node.js · PostgreSQL · MongoDB · Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-**Full Stack:** Next.js · React · Supabase · Git
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-6B5B95?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--tuning-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge" />
+</p>
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,docker" />
+</p>
+
+### Frontend & Full Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,supabase" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -164,15 +207,6 @@ UNDERSTANDING → SYSTEM → BUILD → REPEAT
 ```
 
 Not every experiment becomes a product. Some become prototypes, research notes, benchmarks, or new questions. That's part of the process.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASH859-hub&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH859-hub&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
