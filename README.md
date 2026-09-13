@@ -1,147 +1,153 @@
 # Yash Jadhav 👋
 
-### 🧠 AI/ML Engineer | 🔬 AI Systems & Research | 🏗️ Builder
+### AI Engineer · Systems Builder · Researcher
 
-> Building intelligent systems at the intersection of machine learning, generative AI, and software engineering.
+> Building intelligent systems at the intersection of **Machine Learning, Deep Learning, Generative AI, and Software Engineering**.
 
-I’m a **B.Sc. Artificial Intelligence & Machine Learning student** focused on becoming a deeply technical AI engineer and researcher.
-
-I learn by building — from machine learning models and code intelligence systems to LLM applications and agentic workflows.
-
-My current direction is simple:
-
-**Understand the fundamentals → build real systems → study what fails → research deeper → build again.**
+I work on problems that require understanding why AI systems work, where they fail, and how to engineer them reliably into production.
 
 ---
 
-## 🚧 Current Projects
+## ⚡ What I Build
 
-- 🧠 **[RepoBrain OS](https://github.com/YASH859-hub/repobrain-os)** — AI-powered repository intelligence and code understanding system
-- 🔐 **[AI Code Vulnerability Detector](https://github.com/YASH859-hub/ai-code-vulnerability-detector)** — Machine learning approach to automated code vulnerability analysis
-- ⚡ **[Nexora](https://github.com/YASH859-hub/nexora)** — AI-assisted personal operations and workflow platform
-- 🔬 **AI Research Experiments** — Exploring deep learning, transformers, LLMs, agents, and intelligent systems
+**Intelligent Systems** that solve real problems through:
 
----
-
-## ⭐ Selected Work
-
-### 🧠 RepoBrain OS
-
-An AI-powered repository intelligence system exploring how machines can understand software repositories beyond simple text retrieval.
-
-**Focus:**  
-Repository analysis · Code intelligence · Symbol extraction · Dependency graphs · Semantic search · Knowledge representation · LLM-assisted development
-
-**Stack:**  
-`Python` `Tree-sitter` `NetworkX` `LLMs` `FastAPI` `Docker`
-
-→ **[View Repository](https://github.com/YASH859-hub/repobrain-os)**
+- 🧠 **Machine Learning & Deep Learning** — predictive systems, representation learning, transformers
+- 🤖 **Generative AI & LLMs** — agentic workflows, RAG systems, intelligent automation
+- 🔐 **AI Security** — code analysis, vulnerability detection, safety mechanisms
+- 🧩 **Repository Intelligence** — code understanding, dependency graphs, knowledge representation
+- 🏗️ **AI Systems & Infrastructure** — scalable backends, vector databases, evaluation frameworks
 
 ---
 
-### 🔐 AI Code Vulnerability Detector
+## 🚀 Featured Projects
 
-An AI-assisted security system for detecting potential vulnerabilities in source code.
+### 🧠 [RepoBrain OS](https://github.com/YASH859-hub/repobrain-os)
 
-**Focus:**  
-Machine learning · Code representation · Feature engineering · CodeBERT · XGBoost · SHAP · Model evaluation
+AI-powered repository intelligence beyond traditional text search.
 
-**Stack:**  
-`Python` `Scikit-learn` `XGBoost` `CodeBERT` `SHAP`
+**Exploring:** Code structure analysis · Symbol extraction · Dependency graphs · Semantic understanding · Knowledge representation
 
-→ **[View Repository](https://github.com/YASH859-hub/ai-code-vulnerability-detector)**
+**Stack:** Python · Tree-sitter · NetworkX · LLMs · FastAPI · Docker
+
+**Question:** Can AI develop meaningful understanding of entire codebases?
 
 ---
 
-### ⚡ Nexora
+### 🔐 [AI Code Vulnerability Detector](https://github.com/YASH859-hub/ai-code-vulnerability-detector)
 
-An AI-assisted platform exploring intelligent workflows for personal operations and task management.
+Machine learning approach to automated code vulnerability analysis.
 
-**Focus:**  
-LLM applications · AI workflows · Automation · Backend systems · Tool integrations · Intelligent orchestration
+**Exploring:** CodeBERT · Feature engineering · XGBoost · SHAP · Model interpretability
 
-**Stack:**  
-`Next.js` `TypeScript` `Supabase` `Gemini` `Express` `Twilio`
+**Stack:** Python · Scikit-learn · XGBoost · CodeBERT
 
-→ **[View Repository](https://github.com/YASH859-hub/nexora)**
+**Question:** How can AI help developers reason about software security?
+
+---
+
+### ⚡ [Nexora](https://github.com/YASH859-hub/nexora)
+
+AI-assisted platform for intelligent personal operations and workflows.
+
+**Exploring:** LLM applications · AI orchestration · Tool integration · Intelligent automation
+
+**Stack:** Next.js · TypeScript · Supabase · Gemini · Express · Twilio
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages:** Python · TypeScript · JavaScript · SQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**AI/ML:** PyTorch · TensorFlow · Scikit-learn · XGBoost · Pandas · NumPy
 
-### AI / ML
+**Generative AI:** LLMs · RAG · LangChain · LangGraph · MCP · Fine-tuning · Prompt Engineering
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=xgboost&logoColor=white)
+**Backend & Infrastructure:** FastAPI · Node.js · PostgreSQL · MongoDB · Docker
 
-### Generative AI
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B5B95?style=flat-square)
-
-`LLMs` `RAG` `AI Agents` `Agentic Workflows` `Prompt Engineering` `Model Evaluation` `Fine-tuning`
-
-### Backend & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Full Stack
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**Full Stack:** Next.js · React · Supabase · Git
 
 ---
 
-## 🧭 What I'm Doing
+## 🧪 How I Approach Engineering
 
-- 🧠 **Deepening ML & Deep Learning** — moving from implementation toward understanding
-- 🔬 **Research** — reading, reproducing, and experimenting with AI research
-- 🤖 **Agentic AI** — exploring tool use, workflows, memory, planning, and evaluation
-- 🏗️ **AI Systems** — learning how reliable AI applications are designed and deployed
-- 🔐 **AI Security** — exploring code intelligence and machine learning for security
-- 📚 **DSA & Mathematics** — strengthening the foundations behind intelligent systems
-- 🌐 **Open Source** — looking for meaningful contributions to AI and developer tooling
-- 🧪 **Building** — turning ideas into working systems rather than stopping at prototypes
+**The Core Philosophy:**
+
+```
+Don't just make it work.
+Understand why it works.
+```
+
+Every project is built around understanding:
+
+- **Why** does this system work?
+- **When** does it fail?
+- **How** do we measure it?
+- **Can** we reproduce it reliably?
+- **How** can we improve it?
+
+A demo is interesting. A **measurable, reproducible, reliable system** is what matters.
 
 ---
 
 ## 🔬 Research Interests
 
-I'm particularly interested in:
+- Machine Learning & Deep Learning
+- Representation Learning & Transformers
+- Large Language Models & RAG
+- AI Agents & Multi-Agent Systems
+- Model Evaluation & Safety
+- Code Intelligence & AI Security
+- AI Infrastructure & Systems
+- Efficient & Reliable AI
 
-- Machine Learning
-- Deep Learning
-- Representation Learning
-- Transformers
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents
-- Multi-Agent Systems
-- AI Evaluation
-- Code Intelligence
-- AI Security
-- AI Systems & Infrastructure
-- Efficient and Reliable AI
+**The Goal:** Move from *using* AI systems to *understanding, engineering, and researching* them.
 
-The long-term goal is to move from **using AI systems** to understanding, engineering, and eventually researching them.
+---
+
+## 🧭 Areas of Focus
+
+I'm particularly drawn to problems that sit at intersections:
+
+```
+    Machine Learning
+           +
+    Software Engineering
+           +
+        Systems
+           +
+       Research
+           ↓
+    Intelligent Systems
+```
+
+**Key Questions I Explore:**
+- How can AI understand complex software repositories?
+- How can agents become more reliable and interpretable?
+- How should intelligent systems evaluate their own outputs?
+- How can context and memory be efficiently represented?
+- How can AI systems operate safely at scale?
+
+---
+
+## 📚 Currently Learning
+
+```
+Machine Learning → Deep Learning → RNNs & Sequences
+                                          ↓
+                                   Transformers
+                                          ↓
+                                      LLMs
+                                          ↓
+                                   RAG & Engineering
+                                          ↓
+                                     AI Agents
+                                          ↓
+                                    AI Systems
+                                          ↓
+                                     Research
+```
 
 ---
 
@@ -151,8 +157,6 @@ The long-term goal is to move from **using AI systems** to understanding, engine
 Elphinstone College — Dr. Homi Bhabha State University, Mumbai
 
 `2024 — 2027`
-
-### Academic Performance
 
 | Semester | SGPA | Grade |
 |:--------:|:----:|:-----:|
@@ -165,155 +169,140 @@ Elphinstone College — Dr. Homi Bhabha State University, Mumbai
 
 ## 💼 Experience
 
-### Machine Learning Intern — FlyRank AI
-`July 2026 — Present`
+**Machine Learning Intern** — FlyRank AI  
+`July 2026 — Present`  
+Applied ML and AI engineering across production systems.
 
-Working on practical machine learning and AI engineering problems.
+**Artificial Intelligence Intern** — Codec Technologies  
+`May 2026 — June 2026`  
+Practical AI/ML implementation and systems engineering.
 
-### Artificial Intelligence Intern — Codec Technologies
-`May 2026 — June 2026`
-
-Worked on applied AI/ML concepts and implementation.
-
-### Data Analytics Virtual Experience — Datacom
-`February 2026 — April 2026`
-
-Developed practical experience in data analysis and analytical problem solving.
+**Data Analytics Virtual Experience** — Datacom  
+`February 2026 — April 2026`  
+Data analysis and analytical problem-solving.
 
 ---
 
-## 🏆 Leadership & Activities
+## 🏆 Community & Leadership
 
-### Google Student Ambassador — 2026
-
-- Technical workshops
-- Developer community initiatives
+**Google Student Ambassador** — 2026
+- Technical workshops and community initiatives
 - AI/technology knowledge sharing
-- Hackathon initiatives
-- Student developer engagement
+- Developer engagement and hackathon leadership
 
-### Hackathons
-
-- **TECHTAVA HACKATHON**
-- **HACKCRYPT — COSMIC CYPHER**
-- **SUMMERHACKS 2026**
+**Hackathons**
+- TECHTAVA HACKATHON
+- HACKCRYPT — COSMIC CYPHER
+- SUMMERHACKS 2026
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Beyond Technology
 
-```text
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-RNNs & Sequence Models
-       ↓
-Transformers
-       ↓
-Large Language Models
-       ↓
-RAG & LLM Engineering
-       ↓
-AI Agents
-       ↓
-AI Systems
-       ↓
-Research
-🧠 My Engineering Philosophy
+Technical ability is only one part of becoming a strong engineer.
 
-Learn deeply. Build deliberately. Measure honestly.
+I'm equally focused on developing:
 
-I don't want to collect frameworks.
+- Clear thinking & decision-making
+- Communication & leadership
+- Discipline & consistency
+- Focus & patience
+- Physical fitness & health
 
-I want to understand systems.
+**The objective isn't to look impressive. It's to become capable.**
 
-When I build something, I try to understand:
+---
 
-Why does it work?
-       ↓
-When does it fail?
-       ↓
-How do we measure it?
-       ↓
-How can we improve it?
-       ↓
-Can the result be reproduced?
-       ↓
-Can the system survive real-world conditions?
-🔁 How I Learn
-        LEARN
-          ↓
-      IMPLEMENT
-          ↓
-      EXPERIMENT
-          ↓
-        BREAK
-          ↓
-        DEBUG
-          ↓
-       MEASURE
-          ↓
-      UNDERSTAND
-          ↓
-        BUILD
-          ↓
-        REPEAT
-🌱 Beyond Technology
+## 🧠 The Learning Cycle
 
-I believe technical ability is only one part of becoming a strong engineer.
+```
+QUESTION → HYPOTHESIS → PROTOTYPE → EXPERIMENT
+              ↑                           ↓
+           ITERATE ← ANALYSIS ← FAILURE
 
-I'm also working on:
+UNDERSTANDING → SYSTEM → BUILD → REPEAT
+```
 
-Discipline
-Communication
-Leadership
-Decision making
-Focus
-Consistency
-Clear thinking
-Physical fitness
+Not every experiment becomes a product. Some become prototypes, research notes, benchmarks, or new questions. That's part of the process.
 
-The objective isn't to look impressive.
+---
 
-The objective is to become capable.
-
-💡 Random Facts
-🧠 I enjoy understanding how systems work under the hood
-💻 I learn best by building and experimenting
-🔬 Research and engineering are becoming increasingly important parts of my work
-🧩 I enjoy difficult technical problems more than repetitive tasks
-📚 Currently spending more time going deeper rather than simply learning more tools
-⚡ I believe consistency compounds
-📊 GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YASH859-hub&show_icons=true&hide_border=true&rank_icon=github" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH859-hub&layout=compact&hide_border=true" /> </p>
-📫 Connect
-💼 LinkedIn: Yash Jadhav
-🐙 GitHub: @YASH859-hub
-🌐 Portfolio: yashjadhav-drab.vercel.app
-📧 Email: yashj192006@gmail.com
-🎯 Long-Term Direction
-                    AI / ML ENGINEER
-                           │
-             ┌─────────────┼─────────────┐
-             ↓             ↓             ↓
-        Mathematics    Engineering    Research
-             │             │             │
-             ↓             ↓             ↓
-            ML         AI Systems      Papers
-             │             │             │
-             ↓             ↓             ↓
-      Deep Learning    Infrastructure  Experiments
-             │             │             │
-             └─────────────┼─────────────┘
-                           ↓
-                    Advanced AI
-                           ↓
-                  Intelligent Systems
-                           ↓
-                       Research
-
-I want to build the technical depth required to work across the AI stack — from mathematics and models to systems, infrastructure, research, and real-world applications.
+## 📊 GitHub Activity
 
 <p align="center">
-Build. Measure. Understand. Repeat.
+  <img src="https://github-readme-stats.vercel.app/api?username=YASH859-hub&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH859-hub&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Open Source
+
+Interested in contributing to:
+
+- Machine Learning & PyTorch
+- LLM infrastructure & AI agents
+- Code intelligence & developer tools
+- AI research implementations
+- Security & reliable systems
+
+I value contributions where I can develop deep understanding rather than make surface-level changes.
+
+---
+
+## 💡 Random Facts
+
+- 🧠 I enjoy understanding systems from first principles
+- 🧪 I prefer experimenting with ideas before deciding their value
+- 🔍 I tend to ask "why?" more than "how?"
+- 💻 I learn fastest when theory is followed by implementation
+- 🔬 Research is becoming an increasingly important part of my work
+- ⚙️ I prefer building systems over building demos
+- 📈 I believe consistency and depth compound
+
+---
+
+## 🎯 Long-Term Direction
+
+```
+    MATHEMATICS
+         ↓
+    ALGORITHMS
+         ↓
+   MACHINE LEARNING
+         ↓
+   DEEP LEARNING
+         ↓
+    TRANSFORMERS
+         ↓
+       LLMs
+         ↓
+      AGENTS
+         ↓
+    AI SYSTEMS
+         ↓
+     RESEARCH
+         ↓
+NEW INTELLIGENT SYSTEMS
+```
+
+The goal isn't to learn every new framework. It's to develop **depth** across the AI stack — from mathematics and models to systems, infrastructure, research, and real-world applications.
+
+---
+
+## 📫 Connect
+
+- 💼 **LinkedIn:** [Yash Jadhav](https://linkedin.com/in/yash-jadhav)
+- 🌐 **Portfolio:** [yashjadhav-drab.vercel.app](https://yashjadhav-drab.vercel.app)
+- 🐙 **GitHub:** [@YASH859-hub](https://github.com/YASH859-hub)
+- 📧 **Email:** yashj192006@gmail.com
+
+---
+
+<p align="center">
+  <b>Build. Measure. Understand. Repeat.</b>
+</p>
+
+<p align="center">
+  <i>Exploring the boundaries of intelligent software.</i>
+</p>
