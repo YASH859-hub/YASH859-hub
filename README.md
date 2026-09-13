@@ -236,12 +236,35 @@ I value contributions where I can develop deep understanding rather than make su
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
-- 💼 **LinkedIn:** [Yash Jadhav](https://linkedin.com/in/yash-jadhav)
-- 🌐 **Portfolio:** [yashjadhav-drab.vercel.app](https://yashjadhav-drab.vercel.app)
-- 🐙 **GitHub:** [@YASH859-hub](https://github.com/YASH859-hub)
-- 📧 **Email:** yashj192006@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/yash-vijay-jadhav">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YASH859-hub">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://yashjadhav-drab.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yashj192006@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yash-vijay-jadhav">LinkedIn</a>
+  ·
+  <a href="https://github.com/YASH859-hub">GitHub</a>
+  ·
+  <a href="https://yashjadhav-drab.vercel.app/">Portfolio</a>
+  ·
+  <a href="mailto:yashj192006@gmail.com">Email</a>
+</p>
 
 ---
 
