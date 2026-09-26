@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/yash-github-ai-banner.gif" alt="Animated AI banner" width="100%" />
+</p>
+
 # Yash Jadhav 👋
 
 ### AI Engineer · Systems Builder · Researcher
